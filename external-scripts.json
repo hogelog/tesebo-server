@@ -4,5 +4,6 @@
   "hubot-heroku-keepalive",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-cron"
 ]
